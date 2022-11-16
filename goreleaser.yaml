@@ -21,6 +21,7 @@ brews:
     homepage: https://github.com/bruceherve/iptracker
     tap:
       owner: bruceherve 
+      name: homebrew-bruceherve
     commit_author:
       name: bruceherve
       email: hernino25@gmail.com 
