@@ -18,7 +18,7 @@ universal_binaries:
   - replace: true
 brews:
   - name: iptracker 
-    homepage: https://github.com/bruceherve/iptracker 
+    homepage: https://github.com/bruceherve/iptracker
     tap:
       owner: bruceherve 
     commit_author:
